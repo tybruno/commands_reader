@@ -1,0 +1,2 @@
+text_file_reader @ git+https://github.com/tybruno/text_file_reader.git#egg=text_file_reader
+commands_parser @ git+https://github.com/tybruno/commands_parser.git#egg=commands_parser
